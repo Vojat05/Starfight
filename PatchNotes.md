@@ -1,8 +1,8 @@
 # Starfight Patch Notes
 
-<h3> + New feature added</h3>
-<h3> - Some feature removed</h3>
-<h3> * Some feature modified</h3>
+<h4> + New feature added</h4>
+<h4> - Some feature removed</h4>
+<h4> * Some feature modified</h4>
 
 ## 9/7/2023
 <ul>
